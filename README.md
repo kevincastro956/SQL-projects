@@ -16,8 +16,9 @@ I was personally interested in the field of Data Analyst, so while I learned SQL
 # Tools I used 
 - **SQL** : All analysis was done through SQL, which let me query my database in order to come to my conclusion.
 - **PostgreSQL** :This program was my choosen database system.
--** Visual Studio Code** : I used VS Code to both manage database and execute my SQL queries.
-**Git & Github**: How I shared my SQL scripts and analysis
+- **Visual Studio Code** : I used VS Code to both manage database and execute my SQL queries.
+
+- **Git & Github**: How I shared my SQL scripts and analysis
 
 # The Analysis 
 
