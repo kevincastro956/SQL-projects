@@ -1,5 +1,5 @@
 # Introduction
-This is a project where I analyze both skills needed and salarys of Data Analyst postions.
+This is a project where I analyze both skills needed and salariesof Data Analyst postions.
 
 Queries used to conduct analysis : [project_sql](/project_sql/)
 
